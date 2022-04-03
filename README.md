@@ -1,3 +1,3 @@
-# deb-demo
+# linux-pkg-demo
 
-deb demo for github action test.
+linux pkg demo for github action test.
