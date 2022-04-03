@@ -1,0 +1,14 @@
+Source: deb-demo
+Section: demo
+Priority: optional
+Maintainer: vazmin <chwingwong@outlook.com>
+Build-Depends: debhelper (>=11~)
+Standards-Version: 4.1.4
+Homepage: https://github.com/vazmin/deb-demo
+
+Package: deb-demo
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: demo
+ demo
