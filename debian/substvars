@@ -1,6 +1,6 @@
-libfastcommon:Version=1.0.55
-libserverframe:Version=1.1.12
-fastcfs-auth-client:Version=2.9.9
-fastcfs-auth-config:Version=1.0.0
-faststore-config:Version=0.0.9
-faststore-client:Version=3.1.0
+libfastcommon:Version=1.0.56
+libserverframe:Version=1.1.13
+fastcfs-auth-config:Version=2.0.0
+fastcfs-auth-client:Version=3.0.0
+faststore-config:Version=1.0.0
+faststore-client:Version=3.2.0

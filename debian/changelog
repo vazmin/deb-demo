@@ -1,3 +1,9 @@
+deb-demo (0.0.2-1) unstable; urgency=medium
+
+  * upgrade to 0.0.2-1
+
+ -- vazmin <chwingwong@outlook.com>  Wed, 06 Apr 2022 17:18:49 +0000
+
 deb-demo (0.0.1) unstable; urgency=low
 
   * Initial release.
